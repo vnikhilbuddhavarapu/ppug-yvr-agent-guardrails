@@ -1,0 +1,45 @@
+AGENTS.md
+  s_021c12b20a1c5e::t_b6bdb73d060726 1,8
+README.md
+  s_021c12b20a1c5e::t_ffc19eabeea684 1,5,10,47-48,63,141
+package-lock.json
+  s_021c12b20a1c5e::t_d2cb474d457558 2,8
+package.json
+  s_021c12b20a1c5e::t_3c6a492379898b 2
+src/app.ts
+  s_021c12b20a1c5e::t_1fb9de01e4032f 12-13
+src/firewall/policy.ts
+  s_021c12b20a1c5e::t_733364a0ae5fc2 122
+src/firewall/tool-gate.ts
+  s_021c12b20a1c5e::t_88861f2a234fd8 19
+src/server.ts
+  s_021c12b20a1c5e::t_460552dacad150 102,110,185
+wrangler.jsonc
+  s_021c12b20a1c5e::t_c95a0544e4949b 3
+src/ui/extensions.tsx
+  s_4fcd9fca800a4c::t_6c43e943749a29 70-72
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "0b7755de29d9b99f9d039f8fb519170aa41dc119",
+  "prompts": {},
+  "sessions": {
+    "s_021c12b20a1c5e": {
+      "agent_id": {
+        "tool": "windsurf",
+        "id": "zany-bayberry",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    },
+    "s_4fcd9fca800a4c": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_4fcd9fca800a4c",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    }
+  }
+}
