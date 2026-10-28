@@ -1,0 +1,21 @@
+AGENTS.md
+  s_021c12b20a1c5e::t_e1df716f5f5b86 30
+README.md
+  s_021c12b20a1c5e::t_aba3b23d532ae3 83-85,87,102,115,147-184,194
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "280ca6a881bfa0c60d2a589af02e449eb2a5da85",
+  "prompts": {},
+  "sessions": {
+    "s_021c12b20a1c5e": {
+      "agent_id": {
+        "tool": "windsurf",
+        "id": "zany-bayberry",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    }
+  }
+}
